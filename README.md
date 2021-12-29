@@ -12,5 +12,9 @@ Prophecy Watchers Magazine Database
 - And, I wanted to share the database so that others may find it useful.
 - And, try to make it cross-platform.
 
+### Searching by author
+* Articles/titles written by the same author, but show different names/titles within the issue, will have a name written in parenthesis.  The name within the parenthesis will commonly have the shortest name that I have found (i.e. **Ken Johnson**).  This will allow one search for all titles by an author using the name within the parenthesis.
+* The best method to search for an author is by last name only first; no first name, nickname, or titles.
+
 
 See the Wiki page for more info.
